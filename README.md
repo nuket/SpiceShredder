@@ -39,3 +39,5 @@ The tines must be printed lengthwise, because we need long polymer fibers that a
 ![Model 2 Design](images/dsm-design-2.png)
 
 Then, we tighten an adjustable hose clamp around the tines, pressing them against the glass body.
+
+The picture above shows three slightly different designs for the tines, to be tested out.
