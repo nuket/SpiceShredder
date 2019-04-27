@@ -20,16 +20,22 @@ The business end of the largest hex-head-driver in a standard IKEA [FIXA](https:
 
 ## Model 1
 
-![Mechanical design](images/dsm-design.png)
+![Model 1 Design](images/dsm-design-1.png)
 
 This does not work because the way the 2mm-thick walls are printed up, they are both brittle and very inflexible. They do not grip the glass walls of the spice grinder.
+
+// Add picture of broken sections and highlight 2mm-only connection between base and tines here.
 
 ## Model 2
 
 This model splits the plastic adapter into two pieces: the base and the tines.
 
-The reason this is necessary, is because there is no way to mix the direction of printing within a single model.
+The reason this is necessary, is because there is no way to mix the direction of printing within a single model and the base and tines need fibers perpendicular to one another.
 
-The base can be printed cleanly from bottom to top, and it can be completely rigid.
+The base can be printed cleanly from bottom to top with concentric circles and infill, and it can be completely rigid.
 
 The tines must be printed lengthwise, because we need long polymer fibers that are flexible, unlike the stacked short fibers in Model 1.
+
+![Model 2 Design](images/dsm-design-2.png)
+
+Then, we tighten an adjustable hose clamp around the tines, pressing them against the glass body.
