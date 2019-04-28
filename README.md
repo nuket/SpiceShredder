@@ -41,3 +41,7 @@ The tines must be printed lengthwise, because we need long polymer fibers that a
 Then, we tighten an adjustable hose clamp around the tines, pressing them against the glass body.
 
 The picture above shows three slightly different designs for the tines, to be tested out.
+
+The hose clamp is standard stainless 9mm width x 50 - 70mm diameter.
+
+![Hose Clamp](images/hose-clamps-1.png)
